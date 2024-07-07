@@ -1,0 +1,7 @@
+name: BetterCombat
+version: '${version}'
+main: net.slqmy.better_combat.BetterCombatPlugin
+api-version: '1.20'
+prefix: BetterCombat
+authors: [Slqmy]
+description: A plugin that aims to improve Minecraft's combat.
